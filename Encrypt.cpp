@@ -272,7 +272,7 @@ void decryption()
         }
         else
         {
-            cout << "\Invalid Pre-Order Entry";
+            cout << "\nInvalid Pre-Order Entry";
         }
     }
 }
